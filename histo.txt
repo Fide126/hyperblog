@@ -1,7 +1,14 @@
+
 este es un documentos para la primera prueba
 del curso  Git y GitHub profesional
-aqui veremos como se guardan las modificaciones
+aqui veremos como se guardan las modificaciones con el comando commit
 de este archivo.
+
+paso para guardar una nueva version de un documentos
+realizar primero un git add o git add .
+
+despues usamos el comando
+git commit -m"avisando la nueva modificacion"
 
 
 17 de enero del 2021
