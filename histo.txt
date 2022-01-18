@@ -11,4 +11,4 @@ despues usamos el comando
 git commit -m"avisando la nueva modificacion"
 
 
-17 de enero del 2021
+18 de enero del 2021
